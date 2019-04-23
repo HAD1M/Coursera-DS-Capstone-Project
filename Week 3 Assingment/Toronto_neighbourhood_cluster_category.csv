@@ -1,0 +1,211 @@
+District,Neighbourhood,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+Old Toronto,Alexandra Park,43.65075755,-79.40429786838209,1,Bar,Vegetarian / Vegan Restaurant,Café,Italian Restaurant,Bakery,Dessert Shop,Pizza Place,Mexican Restaurant,Coffee Shop,Sandwich Place
+Old Toronto,The Annex,43.670337700000005,-79.407117,0,Pizza Place,Café,Coffee Shop,Vegetarian / Vegan Restaurant,Sandwich Place,Restaurant,Deli / Bodega,Tea Room,Bakery,Burger Joint
+Old Toronto,Baldwin Village,43.655184573713846,-79.3973990318328,1,Café,Vegetarian / Vegan Restaurant,Bar,Vietnamese Restaurant,Dumpling Restaurant,Bakery,Mexican Restaurant,Chinese Restaurant,Art Gallery,Coffee Shop
+Old Toronto,Cabbagetown,43.6644734,-79.36698609999999,4,Restaurant,Coffee Shop,Café,Park,Thai Restaurant,Diner,Grocery Store,Beer Store,Bakery,Pub
+Old Toronto,CityPlace,43.639248200000004,-79.3963865,4,Coffee Shop,Restaurant,Café,Italian Restaurant,Gym,Park,Grocery Store,Beer Bar,Bakery,Speakeasy
+Old Toronto,Chinatown,43.6529237,-79.3980316,1,Café,Vegetarian / Vegan Restaurant,Bar,Dumpling Restaurant,Coffee Shop,Ice Cream Shop,Bakery,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant
+Old Toronto,Church and Wellesley,43.6655242,-79.3838011,4,Coffee Shop,Japanese Restaurant,Burger Joint,Sushi Restaurant,Café,Restaurant,Gay Bar,Diner,Pizza Place,Mediterranean Restaurant
+Old Toronto,Corktown,43.6573709,-79.3565189,4,Coffee Shop,Gym / Fitness Center,Bakery,Breakfast Spot,Restaurant,Bar,Hotel,Park,Pub,Thai Restaurant
+Old Toronto,Discovery District,43.6575555,-79.3894803,4,Coffee Shop,Bubble Tea Shop,Art Gallery,Café,Clothing Store,Ice Cream Shop,Japanese Restaurant,Bar,Sushi Restaurant,Chinese Restaurant
+Old Toronto,Distillery District,43.6502947,-79.35954009999999,4,Coffee Shop,Park,Bakery,Theater,Café,Pub,Italian Restaurant,Restaurant,Breakfast Spot,Boat or Ferry
+Old Toronto,The Entertainment District,43.6465862,-79.389723,4,Coffee Shop,Pizza Place,Hotel,Café,Sushi Restaurant,Italian Restaurant,Concert Hall,Thai Restaurant,Restaurant,Pub
+Old Toronto,East Bayfront,43.79015913888244,-79.13557994902368,2,Cosmetics Shop,Supermarket,Bank,Food & Drink Shop,Pharmacy,Food Court,Farmers Market,Empanada Restaurant,Ethiopian Restaurant,Food Service
+Old Toronto,Fashion District,43.6454561,-79.3949942,4,Restaurant,Coffee Shop,Italian Restaurant,Yoga Studio,Sandwich Place,Bar,Beer Bar,French Restaurant,Taco Place,Gym
+Old Toronto,Financial District,43.64866395,-79.3815338905095,4,Coffee Shop,Hotel,Café,Restaurant,Gastropub,Deli / Bodega,American Restaurant,Steakhouse,Thai Restaurant,Concert Hall
+Old Toronto,Garden District,43.656501899999995,-79.3771275,4,Coffee Shop,Clothing Store,Restaurant,Café,Italian Restaurant,Middle Eastern Restaurant,Gastropub,Cosmetics Shop,Ramen Restaurant,Fast Food Restaurant
+Old Toronto,Grange Park,43.65219185,-79.39219412395741,4,Coffee Shop,Art Gallery,Café,Pizza Place,Japanese Restaurant,Sushi Restaurant,Cocktail Bar,Bar,Sandwich Place,Yoga Studio
+Old Toronto,Harbord Village,43.6615225,-79.4097446,3,Korean Restaurant,Café,Restaurant,Bar,Bakery,Coffee Shop,Pizza Place,Sushi Restaurant,Dessert Shop,Asian Restaurant
+Old Toronto,Harbourfront,43.640080100000006,-79.3801495,4,Coffee Shop,Hotel,Aquarium,Café,Brewery,Scenic Lookout,Restaurant,Bakery,Italian Restaurant,Park
+Old Toronto,Kensington Market,43.6552136,-79.4022604,1,Café,Bar,Vegetarian / Vegan Restaurant,Bakery,Mexican Restaurant,Vietnamese Restaurant,Coffee Shop,Taco Place,Ramen Restaurant,Cocktail Bar
+Old Toronto,Little Japan,43.700158022388,-79.52027774058286,2,Coffee Shop,Train Station,Pharmacy,Fried Chicken Joint,Park,Café,Soccer Field,Diner,Breakfast Spot,Laundromat
+Old Toronto,Moss Park,43.654643799999995,-79.36972779999999,4,Coffee Shop,Italian Restaurant,Café,Restaurant,Theater,Breakfast Spot,Pizza Place,Hotel,Bakery,Diner
+Old Toronto,Old Town,43.6590419,-79.43886090000001,1,Bar,Café,Bakery,Coffee Shop,Clothing Store,Beer Store,Mexican Restaurant,Caribbean Restaurant,Grocery Store,Park
+Old Toronto,Quayside,43.6472502,-79.3581720783773,0,Coffee Shop,Theater,Park,Boat or Ferry,Bakery,Pub,Café,Circus,Liquor Store,Bank
+Old Toronto,Queen Street West,43.6498523,-79.3911748,4,Coffee Shop,Pizza Place,Café,Restaurant,Thai Restaurant,Japanese Restaurant,Art Gallery,Vegetarian / Vegan Restaurant,Sushi Restaurant,Cosmetics Shop
+Old Toronto,Regent Park,43.66070560000001,-79.3604569,4,Coffee Shop,Restaurant,Park,Thai Restaurant,Café,Pharmacy,Grocery Store,Food Truck,Farmers Market,Farm
+Old Toronto,South Core,43.6421064,-79.3774455,4,Coffee Shop,Hotel,Café,Restaurant,Italian Restaurant,Deli / Bodega,Park,Bakery,Aquarium,Brewery
+Old Toronto,St. James Town,43.6694032,-79.37270409999999,4,Coffee Shop,Café,Restaurant,Pizza Place,Grocery Store,Japanese Restaurant,Sandwich Place,Pub,Bank,Bakery
+Old Toronto,St. Lawrence,43.649421999999994,-79.37142779999999,4,Coffee Shop,Italian Restaurant,Restaurant,Café,Gastropub,Gym,Hotel,Cocktail Bar,Cheese Shop,Pizza Place
+Old Toronto,Toronto Islands,43.616196200000005,-79.36935820000001,2,Theme Park,American Restaurant,Pizza Place,Scenic Lookout,Harbor / Marina,Beach,Park,Beer Garden,Farm,Zoo
+Old Toronto,Trefann Court,43.6564893,-79.3628297,4,Coffee Shop,Italian Restaurant,Café,Park,Pub,Bakery,Restaurant,Mexican Restaurant,Theater,Thai Restaurant
+Old Toronto,University,43.6679307,-79.39625459999999,4,Café,Italian Restaurant,Coffee Shop,Boutique,Restaurant,French Restaurant,Park,Cosmetics Shop,Hotel,Clothing Store
+Old Toronto,Yorkville,43.67138610000001,-79.3901677,4,Café,Italian Restaurant,Coffee Shop,French Restaurant,Restaurant,Sushi Restaurant,Hotel,Clothing Store,Indian Restaurant,Spa
+Old Toronto,The Beaches,43.6710244,-79.296712,0,Beach,Pub,Japanese Restaurant,Coffee Shop,Bar,Breakfast Spot,Tea Room,Thai Restaurant,BBQ Joint,Pizza Place
+Old Toronto,East Chinatown,43.6529237,-79.3980316,1,Café,Vegetarian / Vegan Restaurant,Bar,Dumpling Restaurant,Coffee Shop,Ice Cream Shop,Bakery,Mexican Restaurant,Chinese Restaurant,Vietnamese Restaurant
+Old Toronto,East Danforth,43.6863598,-79.30031579999999,2,Coffee Shop,Pizza Place,Bus Line,Ice Cream Shop,Indian Restaurant,Skating Rink,Sushi Restaurant,Furniture / Home Store,Fried Chicken Joint,Breakfast Spot
+Old Toronto,Gerrard Street East,43.6625941,-79.36408940000001,4,Coffee Shop,Restaurant,Café,Thai Restaurant,Diner,Grocery Store,Indian Restaurant,Beer Store,Bakery,BBQ Joint
+Old Toronto,Greektown,43.648690000000045,-79.38543999999995,4,Coffee Shop,Café,Steakhouse,American Restaurant,Restaurant,Hotel,Pub,Thai Restaurant,Pizza Place,Bar
+Old Toronto,Leslieville,43.6627,-79.3328148,0,Coffee Shop,Bar,Pizza Place,Sandwich Place,Café,Italian Restaurant,Diner,Bakery,Fast Food Restaurant,Grocery Store
+Old Toronto,Main Square,43.68774405,-79.30046097372959,2,Coffee Shop,Bus Line,Chinese Restaurant,Skating Rink,Ice Cream Shop,Pizza Place,Breakfast Spot,Fish & Chips Shop,Fast Food Restaurant,Fried Chicken Joint
+Old Toronto,Playter Estates,43.68015000000002,-79.35524999999996,0,Greek Restaurant,Coffee Shop,Pub,Ice Cream Shop,Café,Furniture / Home Store,Italian Restaurant,Grocery Store,Pizza Place,Yoga Studio
+Old Toronto,Port Lands,43.6430648,-79.3506012,2,Boat or Ferry,Harbor / Marina,Athletics & Sports,Circus,Pool,Golf Driving Range,Trail,BBQ Joint,Beach,Supermarket
+Old Toronto,Riverdale,43.6654704,-79.35259359999999,2,Vietnamese Restaurant,Bakery,Café,Park,Coffee Shop,Chinese Restaurant,Fast Food Restaurant,Vegetarian / Vegan Restaurant,Breakfast Spot,Brewery
+Old Toronto,Upper Beaches,43.6710244,-79.296712,0,Beach,Pub,Japanese Restaurant,Coffee Shop,Bar,Breakfast Spot,Tea Room,Thai Restaurant,BBQ Joint,Pizza Place
+Old Toronto,Bedford Park,43.7373876,-79.4109253,2,Bakery,Accessories Store,Grocery Store,Pharmacy,Pub,Coffee Shop,Restaurant,Sandwich Place,Seafood Restaurant,Shoe Store
+Old Toronto,Casa Loma,43.678101500000004,-79.409415775,0,Coffee Shop,Sandwich Place,Park,Café,Pizza Place,Jewish Restaurant,Vegetarian / Vegan Restaurant,History Museum,Burger Joint,Mexican Restaurant
+Old Toronto,Chaplin Estates,43.7025981,-79.4032704,4,Coffee Shop,Sushi Restaurant,Italian Restaurant,Park,Fast Food Restaurant,Bakery,Bookstore,Japanese Restaurant,Trail,Mexican Restaurant
+Old Toronto,Davisville Village,43.7043123,-79.38851690000001,0,Coffee Shop,Sandwich Place,Fast Food Restaurant,Café,Dessert Shop,Gym,Pizza Place,Gastropub,Restaurant,Italian Restaurant
+Old Toronto,Deer Park,43.68809,-79.39409350000001,4,Coffee Shop,Sushi Restaurant,Italian Restaurant,Thai Restaurant,Pizza Place,Spa,Grocery Store,Gym / Fitness Center,Park,Sandwich Place
+Old Toronto,Forest Hill,43.6935586,-79.41390229999999,2,Park,Café,Mediterranean Restaurant,Japanese Restaurant,Middle Eastern Restaurant,Sushi Restaurant,Liquor Store,Sandwich Place,Bank,Bakery
+Old Toronto,Lawrence Park,43.729199,-79.40325250000001,0,Bakery,Coffee Shop,Italian Restaurant,Sushi Restaurant,Asian Restaurant,Bank,Grocery Store,Sandwich Place,Burger Joint,Tea Room
+Old Toronto,Lytton Park,43.715998600000006,-79.412291,2,Skating Rink,Playground,Garden,Zoo,Fast Food Restaurant,Electronics Store,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit
+Old Toronto,Midtown,43.70573579999999,-79.39756691740921,4,Coffee Shop,Italian Restaurant,Sushi Restaurant,Café,Fast Food Restaurant,Restaurant,Gym,Pizza Place,Indian Restaurant,Mexican Restaurant
+Old Toronto,Moore Park,43.6903876,-79.3832965,2,Park,Grocery Store,Japanese Restaurant,Thai Restaurant,Gym,Sandwich Place,Café,Bank,Playground,Filipino Restaurant
+Old Toronto,North Toronto,43.6465466,-79.41952629999999,1,Bar,Café,Restaurant,Cocktail Bar,Bakery,Asian Restaurant,Coffee Shop,Italian Restaurant,Gift Shop,Theater
+Old Toronto,Rosedale,43.6783556,-79.3807457,2,Park,Trail,Japanese Restaurant,Bank,Office,BBQ Joint,Sandwich Place,Athletics & Sports,Coffee Shop,Bar
+Old Toronto,South Hill,43.6779261,-79.40576709999999,0,Coffee Shop,Sandwich Place,Park,Café,Jewish Restaurant,Pizza Place,Mexican Restaurant,History Museum,French Restaurant,Italian Restaurant
+Old Toronto,Summerhill,43.6816776,-79.3905037,0,Italian Restaurant,Park,Café,Coffee Shop,Spa,Sushi Restaurant,Bakery,French Restaurant,Pizza Place,Vegetarian / Vegan Restaurant
+Old Toronto,Wanless Park,43.7289408,-79.39202744989309,2,Bus Line,Pool,Swim School,Park,Business Service,Field,Ethiopian Restaurant,Event Space,Exhibit,Falafel Restaurant
+Old Toronto,Wychwood Park,43.677743,-79.42018497794459,0,Coffee Shop,Bakery,Burger Joint,Ice Cream Shop,Pizza Place,Café,Fast Food Restaurant,Dessert Shop,Italian Restaurant,Bar
+Old Toronto,Yonge–Eglinton,43.706747899999996,-79.39832709999999,4,Coffee Shop,Italian Restaurant,Pizza Place,Sushi Restaurant,Restaurant,Fast Food Restaurant,Café,Burger Joint,Gym,Mexican Restaurant
+Old Toronto,Beaconsfield Village,43.64818851090662,-79.42759982018626,1,Bar,Café,Bakery,Coffee Shop,Cocktail Bar,Italian Restaurant,Vietnamese Restaurant,Asian Restaurant,Vegetarian / Vegan Restaurant,Restaurant
+Old Toronto,Bloor West Village,43.6493184,-79.4844358,0,Café,Coffee Shop,Pizza Place,Bakery,Italian Restaurant,Falafel Restaurant,Park,Dessert Shop,Pub,Gastropub
+Old Toronto,Bracondale Hill,43.6761247,-79.4279997,0,Italian Restaurant,Bakery,Mexican Restaurant,Café,Coffee Shop,Bar,Burger Joint,Sushi Restaurant,Indian Restaurant,Grocery Store
+Old Toronto,Brockton Village,43.650917299999996,-79.4400216,0,Coffee Shop,Vietnamese Restaurant,Bar,Bakery,Clothing Store,Restaurant,Grocery Store,Brewery,Fast Food Restaurant,Park
+Old Toronto,Carleton Village,43.6707205,-79.4532778,0,Café,Italian Restaurant,Vietnamese Restaurant,Fish Market,Gym,Bakery,Brazilian Restaurant,Bank,Bar,Latin American Restaurant
+Old Toronto,Corso Italia,43.677954,-79.4430828,0,Italian Restaurant,Convenience Store,Breakfast Spot,Café,Pizza Place,Coffee Shop,Light Rail Station,Mexican Restaurant,Bus Stop,Sandwich Place
+Old Toronto,Davenport,43.6715614,-79.4482927,0,Italian Restaurant,Bakery,Café,Coffee Shop,Gym,Pharmacy,Bank,Supermarket,Liquor Store,Dog Run
+Old Toronto,Dovercourt Park,43.6651844,-79.433504844005,1,Bar,Bakery,Coffee Shop,Café,Pet Store,Middle Eastern Restaurant,Juice Bar,Beer Bar,Restaurant,Pharmacy
+Old Toronto,Dufferin Grove,43.65363189999999,-79.42643890000001,1,Bar,Coffee Shop,Bakery,Vegetarian / Vegan Restaurant,Café,Restaurant,Italian Restaurant,Asian Restaurant,Wine Bar,Japanese Restaurant
+Old Toronto,Earlscourt,43.676277299999995,-79.4505723,0,Italian Restaurant,Brazilian Restaurant,Bakery,Convenience Store,Coffee Shop,Mexican Restaurant,Bank,Sushi Restaurant,Fried Chicken Joint,Mediterranean Restaurant
+Old Toronto,Fort York,43.6386801,-79.4035012349971,4,Park,Coffee Shop,Italian Restaurant,Restaurant,Café,Diner,Pub,Bakery,Speakeasy,Bar
+Old Toronto,High Park,43.64628135,-79.4638213811953,2,Dog Run,Zoo,Lake,Playground,Park,Outdoors & Recreation,Scenic Lookout,Other Great Outdoors,Castle,Café
+Old Toronto,The Junction,43.6654775,-79.470352,0,Coffee Shop,Bar,Café,Italian Restaurant,Bakery,Thai Restaurant,Furniture / Home Store,Nail Salon,Pharmacy,Electronics Store
+Old Toronto,Junction Triangle,43.65789885,-79.44804324226129,1,Bar,Café,Coffee Shop,Pub,Brewery,Pizza Place,Bakery,Sandwich Place,Breakfast Spot,Art Gallery
+Old Toronto,Koreatown,43.663556400000004,-79.4184157,3,Korean Restaurant,Coffee Shop,Café,Japanese Restaurant,Grocery Store,Cocktail Bar,Indian Restaurant,Ethiopian Restaurant,Bakery,Ice Cream Shop
+Old Toronto,Liberty Village,43.6388951,-79.41795309999999,1,Coffee Shop,Café,Restaurant,Bar,Furniture / Home Store,Men's Store,Art Gallery,Vegetarian / Vegan Restaurant,Gift Shop,Theater
+Old Toronto,Little Italy,43.65520789999999,-79.41487690000001,1,Bar,Italian Restaurant,Café,Coffee Shop,Breakfast Spot,Asian Restaurant,Sandwich Place,Dessert Shop,Art Gallery,Cocktail Bar
+Old Toronto,Little Portugal,43.64741325,-79.43111632546051,1,Bar,Coffee Shop,Café,Bakery,Vegetarian / Vegan Restaurant,Cocktail Bar,Restaurant,Lounge,French Restaurant,Italian Restaurant
+Old Toronto,Little Tibet,43.6389445,-79.4273119,1,Café,Bar,Coffee Shop,Restaurant,Furniture / Home Store,Bakery,Vegetarian / Vegan Restaurant,Sandwich Place,Caribbean Restaurant,Mexican Restaurant
+Old Toronto,Mirvish Village,43.6651321,-79.41120500000001,3,Korean Restaurant,Pizza Place,Coffee Shop,Grocery Store,Restaurant,Bakery,Japanese Restaurant,Café,Sushi Restaurant,Ice Cream Shop
+Old Toronto,Niagara,43.6434701,-79.4082484,4,Café,Italian Restaurant,Coffee Shop,Bakery,Restaurant,Spa,Furniture / Home Store,Men's Store,Yoga Studio,Gift Shop
+Old Toronto,Palmerston,43.6558643,-79.41012020000001,1,Café,Bar,Vegetarian / Vegan Restaurant,Italian Restaurant,Bakery,Burger Joint,Sandwich Place,Comfort Food Restaurant,Asian Restaurant,Breakfast Spot
+Old Toronto,Parkdale,43.6371777,-79.43600450000001,0,Bar,Café,Tibetan Restaurant,Thrift / Vintage Store,Pharmacy,Diner,Bakery,Park,Sandwich Place,Indian Restaurant
+Old Toronto,Roncesvalles,43.6514426,-79.45103809999999,0,Bar,Coffee Shop,Pizza Place,Pub,Thai Restaurant,Restaurant,Breakfast Spot,Brewery,Sushi Restaurant,Gourmet Shop
+Old Toronto,Runnymede,43.6655802,-79.4821078,2,Coffee Shop,Pizza Place,Sandwich Place,Café,Park,Grocery Store,Fried Chicken Joint,Gym / Fitness Center,Skating Rink,BBQ Joint
+Old Toronto,Seaton Village,43.6692756,-79.4159596,3,Korean Restaurant,Grocery Store,Coffee Shop,Café,Japanese Restaurant,Park,Ice Cream Shop,Restaurant,Tea Room,Sandwich Place
+Old Toronto,Swansea,43.644940000000005,-79.478313,0,Café,Coffee Shop,Pizza Place,Bakery,Falafel Restaurant,Pub,Gastropub,Italian Restaurant,Dessert Shop,Sushi Restaurant
+Old Toronto,Trinity–Bellwoods,43.64756465,-79.4138809026667,1,Bar,Pizza Place,Restaurant,Café,Coffee Shop,Italian Restaurant,Asian Restaurant,Cocktail Bar,Bakery,Men's Store
+Old Toronto,Wallace Emerson,43.6667328,-79.4464779,0,Café,Coffee Shop,Park,Portuguese Restaurant,Pharmacy,Gym,Supermarket,Bar,Beer Store,Bakery
+East York,Broadview North,43.6839242,-79.3569642,2,Café,Business Service,Farmers Market,Bank,Grocery Store,Scenic Lookout,Discount Store,Theater,Historic Site,Other Great Outdoors
+East York,Crescent Town,43.695403000000006,-79.293099,2,Chinese Restaurant,Ice Cream Shop,Coffee Shop,Convenience Store,Gas Station,Electronics Store,Beer Store,Sushi Restaurant,Bank,Bakery
+East York,Pape Village,43.6893775,-79.3488243,2,Greek Restaurant,Bakery,Pharmacy,Pizza Place,Chinese Restaurant,Restaurant,Business Service,Bank,Beer Store,Gourmet Shop
+East York,Woodbine Heights,43.699930200000004,-79.3191316,2,Park,Cosmetics Shop,Curling Ice,Pharmacy,Bus Line,Beer Store,Skating Rink,Farmers Market,Empanada Restaurant,Ethiopian Restaurant
+East York,Bermondsey,43.713824200000005,-79.31067759999999,2,Fast Food Restaurant,Sporting Goods Shop,Soccer Stadium,Office,Bakery,BBQ Joint,Gym / Fitness Center,Coffee Shop,Athletics & Sports,Café
+East York,Governor's Bridge,43.69043250000001,-79.36866675,2,Park,Grocery Store,Trail,Bank,Skating Rink,Candy Store,Pharmacy,Farmers Market,Historic Site,Neighborhood
+East York,Leaside,43.70479829999999,-79.36809040000001,0,Coffee Shop,Bakery,Sporting Goods Shop,Indian Restaurant,Ice Cream Shop,Sandwich Place,Grocery Store,Asian Restaurant,Mexican Restaurant,Italian Restaurant
+East York,O'Connor–Parkview,43.7070599,-79.31163029999999,2,Pizza Place,Brewery,Fast Food Restaurant,Bakery,Rock Climbing Spot,Gym / Fitness Center,Café,Athletics & Sports,Gastropub,Soccer Stadium
+East York,Thorncliffe Park,43.704553000000004,-79.3454074,2,Indian Restaurant,Coffee Shop,Afghan Restaurant,Park,Gym / Fitness Center,Gym,Grocery Store,Asian Restaurant,Restaurant,Turkish Restaurant
+Etobicoke,Alderwood,43.6017173,-79.5452325,2,Pizza Place,Pool,Gas Station,Sandwich Place,Donut Shop,Park,Pharmacy,Gym,Coffee Shop,Athletics & Sports
+Etobicoke,Centennial Park,43.65359045,-79.5888688813873,2,Baseball Field,College Rec Center,Hockey Arena,Ski Area,Ski Chalet,Park,Garden,Bank,Racetrack,Stadium
+Etobicoke,Clairville,43.747900000000065,-79.63176999999995,2,Construction & Landscaping,Department Store,Filipino Restaurant,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Falafel Restaurant,Farm,Farmers Market
+Etobicoke,Eatonville,43.6462843,-79.5600005,2,Convenience Store,Bank,Grocery Store,Farmers Market,Café,Clothing Store,Skating Rink,Gym,Mexican Restaurant,American Restaurant
+Etobicoke,The Elms,43.696997499999995,-79.52188340000001,2,Breakfast Spot,Pharmacy,Grocery Store,Tech Startup,Café,Soccer Field,Diner,Park,Skating Rink,Pizza Place
+Etobicoke,Eringate,43.6622732,-79.5765162,2,Coffee Shop,Convenience Store,Chinese Restaurant,Park,Pizza Place,Eastern European Restaurant,Zoo,Empanada Restaurant,Ethiopian Restaurant,Event Space
+Etobicoke,Humber Bay,43.6400463,-79.495028,2,Business Service,Auto Workshop,Harbor / Marina,Park,Shopping Mall,Farmers Market,Electronics Store,Empanada Restaurant,Ethiopian Restaurant,Event Space
+Etobicoke,Humber Heights – Westmount,43.686072100000004,-79.5288038497315,2,Convenience Store,Pizza Place,Café,Discount Store,Hardware Store,Restaurant,Supermarket,Bakery,Plaza,Ice Cream Shop
+Etobicoke,Humber Valley Village,43.6664717,-79.5243136,2,Pharmacy,Grocery Store,Camera Store,Skating Rink,Restaurant,Japanese Restaurant,Bus Stop,Bank,Spa,Convenience Store
+Etobicoke,Humberwood,43.722525,-79.5460241478979,2,Golf Course,Home Service,Business Service,Park,Italian Restaurant,Zoo,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit
+Etobicoke,Islington–City Centre West,43.648795299999996,-79.5490002,2,Park,Pizza Place,Bank,Fish & Chips Shop,Zoo,Fast Food Restaurant,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit
+Etobicoke,Kingsview Village,43.6995391,-79.5563459,2,Sporting Goods Shop,Supermarket,Breakfast Spot,Chinese Restaurant,Gym,Sandwich Place,Beer Store,Shopping Mall,Fast Food Restaurant,Coffee Shop
+Etobicoke,The Kingsway,43.6473811,-79.51133279999999,0,Coffee Shop,Pub,Dessert Shop,Sushi Restaurant,Italian Restaurant,Breakfast Spot,Pool Hall,French Restaurant,Thai Restaurant,Bar
+Etobicoke,Long Branch,43.5930751,-79.541212,2,Light Rail Station,Coffee Shop,Burger Joint,Park,Bar,Beer Store,Sandwich Place,Dog Run,Greek Restaurant,Grocery Store
+Etobicoke,Markland Wood,43.63123795,-79.5854368166265,2,Park,Flower Shop,Golf Course,Baseball Field,Zoo,Fast Food Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Falafel Restaurant
+Etobicoke,Mimico,43.603656,-79.4931782,2,Park,Fast Food Restaurant,Dessert Shop,Sandwich Place,Liquor Store,Fried Chicken Joint,American Restaurant,Flower Shop,Pizza Place,Coffee Shop
+Etobicoke,New Toronto,43.6007625,-79.505264,2,Park,Mexican Restaurant,Coffee Shop,Bakery,Italian Restaurant,Flower Shop,Café,Sushi Restaurant,Sandwich Place,Supermarket
+Etobicoke,Princess Gardens,43.67574935,-79.5528551098826,2,Liquor Store,Pharmacy,Shopping Mall,Beer Store,Grocery Store,Pizza Place,Supermarket,Café,Bank,Asian Restaurant
+Etobicoke,Rexdale,43.7213619,-79.5655129,2,Fast Food Restaurant,Coffee Shop,Department Store,Salon / Barbershop,Bakery,Clothing Store,Sandwich Place,Pizza Place,Convenience Store,Event Space
+Etobicoke,Richview,43.6886113,-79.54283120000001,2,Supplement Shop,Baseball Field,Intersection,Park,Zoo,Field,Ethiopian Restaurant,Event Space,Exhibit,Falafel Restaurant
+Etobicoke,Smithfield,43.6311185,-79.48566020000001,2,Coffee Shop,Grocery Store,Furniture / Home Store,Fried Chicken Joint,Light Rail Station,Liquor Store,Chinese Restaurant,Bank,Spa,Sandwich Place
+Etobicoke,Stonegate-Queensway,43.62195,-79.5234993,2,Coffee Shop,Burrito Place,Gym,BBQ Joint,American Restaurant,Sandwich Place,Liquor Store,Grocery Store,Bank,Optical Shop
+Etobicoke,Sunnylea,43.64159705,-79.50166497321379,2,Poutine Place,Business Service,Field,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Falafel Restaurant,Farm,Farmers Market
+Etobicoke,Thistletown,43.7372656,-79.56531690000001,2,Indian Restaurant,Caribbean Restaurant,Thai Restaurant,Asian Restaurant,Fast Food Restaurant,Bank,Pharmacy,Supermarket,Coffee Shop,Pizza Place
+Etobicoke,Thorncrest Village,43.6592355,-79.5297762,2,Pharmacy,Grocery Store,Skating Rink,Bank,Park,Café,Shopping Mall,Falafel Restaurant,Electronics Store,Empanada Restaurant
+Etobicoke,West Humber-Clairville,43.714510000000075,-79.59291999999994,2,Hotel,Chinese Restaurant,Mediterranean Restaurant,Gym / Fitness Center,Paper / Office Supplies Store,Sandwich Place,Clothing Store,Coffee Shop,Rental Car Location,Swiss Restaurant
+Etobicoke,West Deane Park,43.6631995,-79.5685684,2,Convenience Store,Electronics Store,Park,Garden,Skating Rink,Farmers Market,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit
+Etobicoke,Willowridge,43.6755594,-79.5698955132183,2,Park,Intersection,Athletics & Sports,Beer Store,Zoo,Fast Food Restaurant,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit
+North York,Amesbury,43.7061619,-79.4834918540464,2,Coffee Shop,Supermarket,Park,Chinese Restaurant,Bank,Bakery,Grocery Store,Sandwich Place,Gym / Fitness Center,Athletics & Sports
+North York,Armour Heights,43.7439436,-79.43085119999999,2,Pharmacy,Bank,Locksmith,Deli / Bodega,Italian Restaurant,Café,Other Great Outdoors,Fast Food Restaurant,Ethiopian Restaurant,Event Space
+North York,Bathurst Manor,43.76389295,-79.4563669371095,2,Convenience Store,Playground,Men's Store,Baseball Field,Park,Zoo,Field,Ethiopian Restaurant,Event Space,Exhibit
+North York,Bayview Village,43.7691966,-79.37666170000001,0,Coffee Shop,Furniture / Home Store,Shoe Store,Gift Shop,Cosmetics Shop,Moving Target,Gas Station,Pet Store,Liquor Store,Breakfast Spot
+North York,Bayview Woods – Steeles,43.7981268,-79.38297259999999,2,Park,Dog Run,Gaming Cafe,Music Store,Zoo,Fast Food Restaurant,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit
+North York,Bermondsey,43.725404499999996,-79.3136935,2,Portuguese Restaurant,Coffee Shop,Sporting Goods Shop,Pizza Place,Park,Hockey Arena,Electronics Store,Empanada Restaurant,Ethiopian Restaurant,Event Space
+North York,Black Creek,43.7346342,-79.50535500000001,2,Moving Target,Park,Home Service,Grocery Store,Zoo,Farm,Eastern European Restaurant,Electronics Store,Empanada Restaurant,Ethiopian Restaurant
+North York,The Bridle Path,43.7353996,-79.37088299999999,2,Music Venue,Zoo,Field,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Falafel Restaurant,Farm,Farmers Market
+North York,Clanton Park,43.74359000000004,-79.44320999999997,2,Other Great Outdoors,Convenience Store,Park,Deli / Bodega,Pharmacy,Fast Food Restaurant,Electronics Store,Empanada Restaurant,Ethiopian Restaurant,Event Space
+North York,Don Mills,43.737178,-79.3434514,2,Restaurant,American Restaurant,Coffee Shop,Liquor Store,Bakery,Bank,Bar,Middle Eastern Restaurant,Chocolate Shop,Sandwich Place
+North York,Don Valley Village,43.7926732,-79.3547219,2,Coffee Shop,Park,Sandwich Place,Grocery Store,Pizza Place,Beer Store,Bank,Chinese Restaurant,Hot Dog Joint,Falafel Restaurant
+North York,Downsview,43.7492988,-79.462248,2,Metro Station,Outdoor Supply Store,Gym / Fitness Center,Gym,Café,Coffee Shop,Grocery Store,French Restaurant,Men's Store,Gas Station
+North York,Flemingdon Park,43.7184315,-79.33320400000001,2,Coffee Shop,Japanese Restaurant,Sandwich Place,Grocery Store,Middle Eastern Restaurant,Science Museum,Gym,Golf Course,Nightclub,Pakistani Restaurant
+North York,Glen Park,43.7090016,-79.4437983,2,Grocery Store,Pizza Place,Japanese Restaurant,Pub,Coffee Shop,Flower Shop,Playground,Park,Sushi Restaurant,Exhibit
+North York,Henry Farm,43.7695089,-79.35429599999999,2,Coffee Shop,Cosmetics Shop,Park,Tennis Court,Eastern European Restaurant,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Falafel Restaurant
+North York,Hillcrest Village,43.7996637,-79.3650189,2,Pool,Park,Sandwich Place,Shopping Mall,Korean Restaurant,Diner,Pharmacy,Recreation Center,Grocery Store,Pizza Place
+North York,Hoggs Hollow,43.741534200000004,-79.4028781,2,Coffee Shop,Gym,Business Service,Grocery Store,Gym / Fitness Center,Sandwich Place,Golf Course,Seafood Restaurant,Thai Restaurant,French Restaurant
+North York,Humber Summit,43.7600778,-79.5717598,2,Coffee Shop,Sports Bar,Mexican Restaurant,Bakery,Empanada Restaurant,Pizza Place,Park,Zoo,Ethiopian Restaurant,Event Space
+North York,Humbermede,43.742840000000065,-79.53745999999995,2,Nightclub,Hockey Field,Latin American Restaurant,Café,Discount Store,Bus Station,Hockey Arena,Grocery Store,Filipino Restaurant,Fish & Chips Shop
+North York,Jane and Finch,43.7572532,-79.5176975,2,Fast Food Restaurant,Pizza Place,Vietnamese Restaurant,Discount Store,Beer Store,Coffee Shop,Falafel Restaurant,Pharmacy,Gym / Fitness Center,Sandwich Place
+North York,Lansing,43.758950299999995,-79.4225555,2,Park,Electronics Store,Health & Beauty Service,Coffee Shop,Eastern European Restaurant,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Falafel Restaurant
+North York,Lawrence Heights,43.722778399999996,-79.45093320000001,0,Clothing Store,Dessert Shop,Restaurant,Furniture / Home Store,Fast Food Restaurant,Men's Store,Chocolate Shop,Toy / Game Store,Greek Restaurant,Sporting Goods Shop
+North York,Lawrence Manor,43.72207879999999,-79.4375067,2,Park,Breakfast Spot,Shoe Store,Bank,Bagel Shop,Doctor's Office,Sandwich Place,Kids Store,Clothing Store,Diner
+North York,Ledbury Park,43.72606035311836,-79.42342836476347,2,Pizza Place,Fast Food Restaurant,Sandwich Place,Bakery,Cosmetics Shop,Bagel Shop,Italian Restaurant,Bridal Shop,Liquor Store,Beer Store
+North York,Maple Leaf,43.712276700000004,-79.49019770000001,2,Business Service,Bakery,Construction & Landscaping,Home Service,Coffee Shop,Zoo,Ethiopian Restaurant,Event Space,Exhibit,Falafel Restaurant
+North York,Newtonbrook,43.7938863,-79.4256790230105,3,Korean Restaurant,Middle Eastern Restaurant,Coffee Shop,Café,Pizza Place,Fast Food Restaurant,Grocery Store,Vietnamese Restaurant,Discount Store,Pharmacy
+North York,North York City Centre,43.768260000000055,-79.41262999999998,3,Coffee Shop,Japanese Restaurant,Fast Food Restaurant,Ramen Restaurant,Korean Restaurant,Sandwich Place,Pizza Place,Restaurant,Café,Middle Eastern Restaurant
+North York,Parkway Forest,43.77166,-79.3426631,0,Clothing Store,Coffee Shop,Fast Food Restaurant,Japanese Restaurant,Food Court,Asian Restaurant,Intersection,Shopping Mall,Bakery,Accessories Store
+North York,Parkwoods,43.7587999,-79.32019659999999,2,Pharmacy,Coffee Shop,Pet Store,Discount Store,Bowling Alley,Café,Tennis Court,Liquor Store,Beer Store,Supermarket
+North York,The Peanut,43.78406939999999,-79.3515012,2,Fast Food Restaurant,Bakery,Beer Store,Caribbean Restaurant,Grocery Store,Baseball Field,Sandwich Place,Park,Theater,Fried Chicken Joint
+North York,Pelmo Park – Humberlea,43.71035000000007,-79.52926999999994,2,Grocery Store,Sandwich Place,Furniture / Home Store,Supplement Shop,Japanese Restaurant,Bank,Food & Drink Shop,Shopping Mall,Gym,Beer Store
+North York,Pleasant View,43.787048,-79.3337137,2,Thrift / Vintage Store,Italian Restaurant,Bus Station,Fast Food Restaurant,Park,Coffee Shop,Pharmacy,Japanese Restaurant,Breakfast Spot,Pizza Place
+North York,Uptown Toronto,43.719471999999996,-79.445,2,Coffee Shop,Fast Food Restaurant,Metro Station,Video Game Store,Grocery Store,Park,Hardware Store,Pet Store,Bus Line,Convenience Store
+North York,Victoria Village,43.732658,-79.3111892,2,Middle Eastern Restaurant,Wings Joint,Thai Restaurant,Home Service,Asian Restaurant,Bus Line,Zoo,Field,Ethiopian Restaurant,Event Space
+North York,Westminster–Branson,43.781990000000064,-79.44951999999995,2,Grocery Store,Coffee Shop,Pizza Place,Park,Butcher,Pharmacy,Electronics Store,Empanada Restaurant,Ethiopian Restaurant,Event Space
+North York,Willowdale,43.77535579999999,-79.4166859823926,3,Korean Restaurant,Bubble Tea Shop,Coffee Shop,Café,Ramen Restaurant,Dessert Shop,Pizza Place,Vietnamese Restaurant,Sushi Restaurant,Japanese Restaurant
+North York,York Mills,43.7461836,-79.4204541,2,Sports Club,Wine Shop,Tennis Court,Intersection,Fast Food Restaurant,Electronics Store,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit
+North York,York University Heights,43.7587808,-79.51943359999999,2,Fast Food Restaurant,Pizza Place,Hotel,Coffee Shop,Fried Chicken Joint,Beer Store,Falafel Restaurant,Liquor Store,Gym,Gym / Fitness Center
+Scarborough,Agincourt,43.7853531,-79.2785494,2,Chinese Restaurant,Vietnamese Restaurant,Cantonese Restaurant,Korean Restaurant,Asian Restaurant,Coffee Shop,Rental Car Location,Country Dance Club,Xinjiang Restaurant,Hong Kong Restaurant
+Scarborough,Armadale,43.8365868,-79.25115509999999,2,Grocery Store,Pizza Place,Fast Food Restaurant,Greek Restaurant,Gym,Hakka Restaurant,Sandwich Place,Juice Bar,Coffee Shop,Big Box Store
+Scarborough,Bendale,43.7535196,-79.2553355,2,Grocery Store,Park,Chinese Restaurant,Department Store,Tennis Court,Dog Run,Coffee Shop,Caribbean Restaurant,Fast Food Restaurant,Fried Chicken Joint
+Scarborough,Birch Cliff,43.70211215,-79.26009053015679,2,Park,Pet Store,Hotel,Gym,American Restaurant,Gym Pool,Fish & Chips Shop,Zoo,Electronics Store,Empanada Restaurant
+Scarborough, Birch Cliff Heights,43.69222666070055,-79.26513261671892,2,Skating Rink,Diner,Bank,Thai Restaurant,Café,Park,General Entertainment,College Stadium,Discount Store,Ethiopian Restaurant
+Scarborough,Brown's Corners,43.812988700000005,-79.24302209999999,2,Chinese Restaurant,Afghan Restaurant,Gym,Light Rail Station,Chocolate Shop,Vietnamese Restaurant,Train Station,Fast Food Restaurant,Sandwich Place,Zoo
+Scarborough,Clairlea,43.708823100000004,-79.2959856,2,Intersection,Convenience Store,Fast Food Restaurant,Pharmacy,Pizza Place,Burger Joint,Diner,Grocery Store,Mexican Restaurant,Sandwich Place
+Scarborough,Cliffside,43.711169899999994,-79.2481769,2,Pizza Place,Pharmacy,Breakfast Spot,Gastropub,Grocery Store,Snack Place,Sandwich Place,Park,Sushi Restaurant,Coffee Shop
+Scarborough,Cliffcrest,43.7219387,-79.2362324,2,Fast Food Restaurant,Flower Shop,Pizza Place,Burger Joint,Furniture / Home Store,Pharmacy,Park,Discount Store,Coffee Shop,Sandwich Place
+Scarborough,Dorset Park,43.7528467,-79.282067,2,Furniture / Home Store,Asian Restaurant,Burger Joint,Coffee Shop,Intersection,Indian Restaurant,Sandwich Place,Thrift / Vintage Store,Gym / Fitness Center,Bakery
+Scarborough,Eglinton East,43.739622,-79.23229040000001,2,Fast Food Restaurant,Sandwich Place,Restaurant,Train Station,Coffee Shop,Convenience Store,Indian Restaurant,Women's Store,Flower Shop,Falafel Restaurant
+Scarborough,Golden Mile,43.727841399999996,-79.2876217,0,Clothing Store,Shoe Store,Coffee Shop,Women's Store,Burger Joint,Pet Store,Fast Food Restaurant,Sandwich Place,Greek Restaurant,Electronics Store
+Scarborough,Guildwood,43.754898499999996,-79.1977755,2,Train Station,Miscellaneous Shop,Storage Facility,Moving Target,Baseball Field,Fast Food Restaurant,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit
+Scarborough,Highland Creek,43.790117200000005,-79.1733344,2,Breakfast Spot,Baseball Field,Italian Restaurant,Home Service,Bus Station,Neighborhood,Filipino Restaurant,Event Space,Exhibit,Falafel Restaurant
+Scarborough,Ionview,43.7359904,-79.2765146,2,Chinese Restaurant,Intersection,Pizza Place,Deli / Bodega,Badminton Court,Fast Food Restaurant,Electronics Store,Empanada Restaurant,Ethiopian Restaurant,Event Space
+Scarborough,L'Amoreaux,43.799003000000006,-79.30596690000002,2,Chinese Restaurant,Park,Coffee Shop,Tennis Court,Athletics & Sports,Bus Stop,Luggage Store,Shopping Mall,Zoo,Empanada Restaurant
+Scarborough,Malvern,43.8091955,-79.2217008,2,Fast Food Restaurant,Pizza Place,Park,Pharmacy,Sandwich Place,Grocery Store,Bubble Tea Shop,Skating Rink,Fish & Chips Shop,Food
+Scarborough,Maryvale,43.7590508,-79.31022970000001,2,Pet Store,Coffee Shop,Pharmacy,Sandwich Place,Paper / Office Supplies Store,Hakka Restaurant,Greek Restaurant,Beer Store,Health Food Store,Bus Line
+Scarborough,Milliken,43.823217299999996,-79.3015232,2,Chinese Restaurant,Japanese Restaurant,Bakery,Vietnamese Restaurant,Optical Shop,Asian Restaurant,Vegetarian / Vegan Restaurant,Hong Kong Restaurant,Bubble Tea Shop,Grocery Store
+Scarborough,Morningside,43.7826012,-79.2049579,2,Sandwich Place,Park,Coffee Shop,Beer Store,Convenience Store,Tennis Court,Supermarket,Pharmacy,Discount Store,Electronics Store
+Scarborough,Morningside Heights,43.823700099999996,-79.2241521,2,Park,Zoo,Fast Food Restaurant,Electronics Store,Empanada Restaurant,Ethiopian Restaurant,Event Space,Exhibit,Falafel Restaurant,Farm
+Scarborough,Oakridge,43.697173799999995,-79.27482320000001,2,Chinese Restaurant,Pizza Place,Dog Run,Park,Bus Stop,Restaurant,Fast Food Restaurant,Fish Market,Flea Market,Electronics Store
+Scarborough,Port Union,43.7755039,-79.13497650000001,2,Park,Convenience Store,Pet Store,Liquor Store,Train Station,Sandwich Place,Coffee Shop,Fast Food Restaurant,Japanese Restaurant,Beer Store
+Scarborough,Rouge,43.8049304,-79.1658374,2,Bus Station,Candy Store,Park,Fast Food Restaurant,Field,Ethiopian Restaurant,Event Space,Exhibit,Falafel Restaurant,Farm
+Scarborough,Scarborough City Centre,43.773077,-79.257774,0,Clothing Store,Coffee Shop,Restaurant,Grocery Store,Gym,Tea Room,Sandwich Place,Electronics Store,Cosmetics Shop,Sporting Goods Shop
+Scarborough,Scarborough Junction,43.7160494,-79.26070279999999,2,Train Station,Park,Fast Food Restaurant,Sandwich Place,Soccer Field,Zoo,Falafel Restaurant,Eastern European Restaurant,Electronics Store,Empanada Restaurant
+Scarborough,Scarborough Village,43.7437422,-79.2116324,2,Coffee Shop,Pub,Pharmacy,Chinese Restaurant,Grocery Store,Gym,Shopping Mall,Fast Food Restaurant,Beer Store,Pizza Place
+Scarborough,Steeles,43.8161778,-79.3145378,2,Park,Baseball Field,BBQ Joint,Pizza Place,Chinese Restaurant,Supermarket,Pharmacy,Tattoo Parlor,Zoo,Ethiopian Restaurant
+Scarborough,Tam O'Shanter – Sullivan,43.782511799999995,-79.30939529999999,2,Intersection,Seafood Restaurant,Noodle House,Discount Store,Park,Sandwich Place,Coffee Shop,Italian Restaurant,Pharmacy,Shopping Mall
+Scarborough,West Hill,43.7689144,-79.1872905,2,Pizza Place,Video Game Store,Coffee Shop,Breakfast Spot,Fast Food Restaurant,Supermarket,Thrift / Vintage Store,Sandwich Place,Chinese Restaurant,Electronics Store
+Scarborough,West Rouge,43.7859631,-79.1307556,2,Lawyer,Food Truck,Trail,Train Station,Sandwich Place,Zoo,Eastern European Restaurant,Electronics Store,Empanada Restaurant,Ethiopian Restaurant
+Scarborough,Wexford,43.74537670000001,-79.29471550000001,2,Middle Eastern Restaurant,Pizza Place,Intersection,Bar,Bakery,Grocery Store,Korean Restaurant,Coffee Shop,Supermarket,Seafood Restaurant
+Scarborough,Woburn,43.7598243,-79.2252908,2,Fast Food Restaurant,Coffee Shop,Grocery Store,Park,Furniture / Home Store,Supermarket,Bank,Liquor Store,Beer Store,Luggage Store
+York,Baby Point,43.655874100000005,-79.49649409999999,2,Park,Café,Metro Station,Athletics & Sports,Pizza Place,River,Coffee Shop,Burger Joint,Spa,Taco Place
+York,Briar Hill–Belgravia,43.69852000000003,-79.45124999999996,2,Park,Pizza Place,Bakery,Caribbean Restaurant,Thai Restaurant,Bank,Grocery Store,Clothing Store,Sandwich Place,Bike Shop
+York,Eglinton West,43.699104399999996,-79.43610579999999,2,Coffee Shop,Caribbean Restaurant,Park,Convenience Store,Playground,Bagel Shop,Bank,Gastropub,Beer Store,Sushi Restaurant
+York,Fairbank,43.695689,-79.4503097,2,Park,Bakery,Pizza Place,Pharmacy,Argentinian Restaurant,Coffee Shop,Fast Food Restaurant,Bike Shop,Discount Store,Japanese Restaurant
+York,Humewood–Cedarvale,43.68942000000004,-79.42697999999996,2,Convenience Store,Playground,Field,Dance Studio,Grocery Store,Food,Farmers Market,Electronics Store,Empanada Restaurant,Ethiopian Restaurant
+York,Lambton,43.6658675,-79.49922420000001,2,Sporting Goods Shop,Dance Studio,Grocery Store,Skating Rink,Trail,Clothing Store,Beer Store,Bakery,Golf Course,Convenience Store
+York,Mount Dennis,43.6869597,-79.48955129999999,2,Park,Furniture / Home Store,Coffee Shop,Grocery Store,Construction & Landscaping,Tennis Court,Bus Line,Fast Food Restaurant,Farmers Market,Empanada Restaurant
+York,Oakwood–Vaughan,43.6916811,-79.4399097,2,Pizza Place,Park,Coffee Shop,Caribbean Restaurant,Grocery Store,Convenience Store,BBQ Joint,Deli / Bodega,Record Shop,Café
+York,Old Mill,43.651301200000006,-79.49547530000001,2,Park,River,Metro Station,American Restaurant,Spa,Zoo,Farmers Market,Electronics Store,Empanada Restaurant,Ethiopian Restaurant
+York,Rockcliffe–Smythe,43.675280000000036,-79.48864999999995,2,Pizza Place,Furniture / Home Store,Park,Beer Store,Supermarket,Bus Line,Coffee Shop,Filipino Restaurant,Event Space,Exhibit
+York,Silverthorn,43.682123,-79.4715724,2,BBQ Joint,Pizza Place,Coffee Shop,Bakery,Beer Store,Wine Shop,Thrift / Vintage Store,Latin American Restaurant,Café,Sandwich Place
+York,Tichester,43.6855019,-79.4187307,0,Coffee Shop,Café,Bakery,Ice Cream Shop,Italian Restaurant,Bank,Mediterranean Restaurant,Sandwich Place,Liquor Store,Dessert Shop
+York,Weston,43.70016079999999,-79.5162474,2,Coffee Shop,Train Station,Park,Café,Laundromat,Breakfast Spot,Soccer Field,Discount Store,Sandwich Place,Diner
